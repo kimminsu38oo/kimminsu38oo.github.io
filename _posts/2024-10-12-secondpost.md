@@ -1,4 +1,7 @@
-# this is second page
+---
+layout: single
+title: "Second post"
+---
 
 # practice header
 
